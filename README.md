@@ -1,8 +1,10 @@
 # Game Developer Magazine - Table of content by issue
 
-Table of content for the Game Developper Magazine issues available here : https://www.gdcvault.com/gdmag
+Table of content for the Game Developper Magazine issues available here : [https://www.gdcvault.com/gdmag](https://www.gdcvault.com/gdmag)
 
 __Pagination is the Mag's, not the PDF's.__
+
+You can find and read the archive online here : [https://archive.org/details/game_developer_magazine](https://archive.org/details/game_developer_magazine)
 
 ## 1994
 
@@ -107,7 +109,7 @@ p.61 Void Pirates on Parade - Void Pirates from Diversions Software, Ian Firth
 ### December/January
 
 p.9 A Hardware Spec for Games  
-p.14 Bit Blasts : Diamon multimedia, Dynamic Motion Module, Intel Indeo  
+p.14 Bit Blasts : Diamond multimedia, Dynamic Motion Module, Intel Indeo  
 p.19 Texture Mapping Part IV: Approximations  
 p.26 XSplat Breaks Out  
 p.34 Under the Rainbow - color quantization  
