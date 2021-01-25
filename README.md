@@ -5,7 +5,7 @@ Table of content for the Game Developper Magazine issues available here : [https
 __Pagination is the Mag's, not the PDF's.__
 
 You can find and read the archive online here : [https://archive.org/details/game_developer_magazine](https://archive.org/details/game_developer_magazine)
-
+ 
 ## 1994
 
 ### Premier 
