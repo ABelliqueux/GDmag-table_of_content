@@ -389,129 +389,129 @@ p.32 BRINGING ENGINEERING DISCIPLINE TO GAME DEVELOPMENT
 p.46 DEER HUNTER's Three-Month Development Cycle  
 p.50 An Introduction to Sound Filtering  
 p.58 Goldtree's DEAD RECKONING - postmortem  
-p.72 The Game Developer’s Resource Center - Terry Bratcher  
+p.72 The Game Developer’s Resource Center - Terry Bratcher    
 
 ## 1999
 
 ### January
 
-p.21 Crashing into the New Year - 2D collision detection
-p.29 Playing God part 1: World Creation in Real-Time 3D
-p.36 Creative Labs’ Move from Legacy to Future Products
-p.42 Coordinated Unit Movement part 1 - pathfinding
-p.52 Structured Exception Handling - TOTAL ANNIHILATION - Cavedog entertainment
-p.56 Surveying the Digital Video Landscape
-p.62 Treyarch's DIE B Y THE SWORD  - postmortem
-p.72 It’s Ready When it Ships - Derek Smart
+p.21 Crashing into the New Year - 2D collision detection  
+p.29 Playing God part 1: World Creation in Real-Time 3D  
+p.36 Creative Labs’ Move from Legacy to Future Products  
+p.42 Coordinated Unit Movement part 1 - pathfinding  
+p.52 Structured Exception Handling - TOTAL ANNIHILATION - Cavedog entertainment  
+p.56 Surveying the Digital Video Landscape  
+p.62 Treyarch's DIE B Y THE SWORD  - postmortem  
+p.72 It’s Ready When it Ships - Derek Smart  
 
 ### February
 
-p.19 When Two Hearts Collide - 3d collision detection
-p.27 Playing God part 2: Creating Convincing Environments in RT3D
-p.34 3Dfx Against the Rest
-p.36 Remodeling RPGs for the new millenium - Warren Spector
-p.48 Coordinated Movement part 2 : Implementing 
-p.60 Shiny Entertainment's WILD 9 - postmortem
-p.72 Garage Developers are Not Dead - Luke Ahearn
+p.19 When Two Hearts Collide - 3d collision detection  
+p.27 Playing God part 2: Creating Convincing Environments in RT3D  
+p.34 3Dfx Against the Rest  
+p.36 Remodeling RPGs for the new millenium - Warren Spector  
+p.48 Coordinated Movement part 2 : Implementing   
+p.60 Shiny Entertainment's WILD 9 - postmortem  
+p.72 Garage Developers are Not Dead - Luke Ahearn  
 
 ### March  
 
-p.15 Collision Response: Bouncy, Trouncy, Fun - collision detection
-p.23 And Now for Something Completely Different... 
-p.31 DVD — A/V Feast and Famine
-p.35 VIDEO IN GAMES: THE STATE OF THE INDUSTRY
-p.44 Casting Shadows on Volumes
-p.54 Ritual Entertainment's SIN - postmortem
-p.64 Public PC? Not Happening. Mark S. Pierce
+p.15 Collision Response: Bouncy, Trouncy, Fun - collision detection  
+p.23 And Now for Something Completely Different...   
+p.31 DVD — A/V Feast and Famine  
+p.35 VIDEO IN GAMES: THE STATE OF THE INDUSTRY  
+p.44 Casting Shadows on Volumes  
+p.54 Ritual Entertainment's SIN - postmortem  
+p.64 Public PC? Not Happening. Mark S. Pierce  
 
 ### April
 
-p.15 Lone Game Developer Battles Physics Simulator
-p.21 Playing God part 3: Putting it All Together
-p.33 Physical Controllers: Re-inventing Game Environment
-p.42 Online Justice Systems
-p.50 Multitude's FIRETEAM - postmortem
-p.72 Immortality for Game Developers - Ernest Adams
+p.15 Lone Game Developer Battles Physics Simulator  
+p.21 Playing God part 3: Putting it All Together  
+p.33 Physical Controllers: Re-inventing Game Environment  
+p.42 Online Justice Systems  
+p.50 Multitude's FIRETEAM - postmortem  
+p.72 Immortality for Game Developers - Ernest Adams  
 
 ### May
 
-p.17 Devil in the Blue-Faceted Dress: Real-Time Cloth Animation
-p.23 See Jane Walk - character animation
-p.28 Dolby and Aureal: Contrasts in Audio
-p.32 Advanced Collision Detection techniques
-p.44 3D Audio SDK Round-Up
-p.52 Red Storm Entertainment's RAINBOW SIX
-p.64 Making a Case for Linux Games - Scott Draeker
+p.17 Devil in the Blue-Faceted Dress: Real-Time Cloth Animation  
+p.23 See Jane Walk - character animation  
+p.28 Dolby and Aureal: Contrasts in Audio  
+p.32 Advanced Collision Detection techniques  
+p.44 3D Audio SDK Round-Up  
+p.52 Red Storm Entertainment's RAINBOW SIX  
+p.64 Making a Case for Linux Games - Scott Draeker  
 
 ### June
 
-p.17 Read My Lips: Facial Animation Techniques
-p.23 To Build or Not to Build - outsourcing modeling 
-p.30 3Dlabs: Pioneering 3D Isn’t Always Profitable
-p.32 1999 FRONT LINE AWARDS
-p.42 Implementing Curved Surface Geometry
-p.54 DreamWorks Interactive's TRESPASSER - postmortem
-p.72 So You Want to Do Movies? Good Riddance! - Chros Hecker
+p.17 Read My Lips: Facial Animation Techniques  
+p.23 To Build or Not to Build - outsourcing modeling   
+p.30 3Dlabs: Pioneering 3D Isn’t Always Profitable  
+p.32 1999 FRONT LINE AWARDS  
+p.42 Implementing Curved Surface Geometry  
+p.54 DreamWorks Interactive's TRESPASSER - postmortem  
+p.72 So You Want to Do Movies? Good Riddance! - Chros Hecker  
 
 ### July 
 
-p.12 Flex Your Facial Animation Muscles
-p.20 Talking Heads: Hierarchical Facial Animation in Real-Time 3D
-p.26 Mpath, HearMe and Mplayer - online gaming market
-p.31 Dirty Java : Using the java native interface within games
-p.40 Optimizing Curved Surface Geometry
-p.50 Looking Glass's THIEF : THE DARK PROJECT - postmortem
-p.64 Don’t Call Me “Audio Guy” - Matt Johnston
+p.12 Flex Your Facial Animation Muscles  
+p.20 Talking Heads: Hierarchical Facial Animation in Real-Time 3D  
+p.26 Mpath, HearMe and Mplayer - online gaming market  
+p.31 Dirty Java : Using the java native interface within games  
+p.40 Optimizing Curved Surface Geometry  
+p.50 Looking Glass's THIEF : THE DARK PROJECT - postmortem  
+p.64 Don’t Call Me “Audio Guy” - Matt Johnston  
 
 ### August
 
-p.19 The Trials and Tribulations of Tribology - friction in real-time 3d
-p.28 Talking Heads: Working with Expressions
-p.32 Mac Games: The Hype and the Fizzle
-p.34 Game AI :  The state of the industry 
-p.44 Formal Abstract Design Tools - design vocabulary
-p.52 LucasLearning's STAR WARS DROID WORKS - postmortem
-p.64 Killing Games: Violence vs. Censorship - Bernd Kreimeier
+p.19 The Trials and Tribulations of Tribology - friction in real-time 3d  
+p.28 Talking Heads: Working with Expressions  
+p.32 Mac Games: The Hype and the Fizzle  
+p.34 Game AI :  The state of the industry   
+p.44 Formal Abstract Design Tools - design vocabulary  
+p.52 LucasLearning's STAR WARS DROID WORKS - postmortem  
+p.64 Killing Games: Violence vs. Censorship - Bernd Kreimeier  
 
 ### September
 
-p.17 Physics on the Back of a Cocktail Napkin - game physics
-p.23 Raising the Bar: Content Creation for Next-Generation Hardware
-p.31 Matrox: Rolling with the Punches and Coming out Swinging
-p.34 LESSONS IN COLOR THEORY FOR SPYRO THE DRAGON
-p.50 Behind the Scenes of MESSIAH’s Character Animation System
-p.58 Leaping Lizard's CENTIPEDE 3D - postmortem
-p.72 Smart Toys: Not Just Kids’ Stuff - Seonaidh Davenport
+p.17 Physics on the Back of a Cocktail Napkin - game physics  
+p.23 Raising the Bar: Content Creation for Next-Generation Hardware  
+p.31 Matrox: Rolling with the Punches and Coming out Swinging  
+p.34 LESSONS IN COLOR THEORY FOR SPYRO THE DRAGON  
+p.50 Behind the Scenes of MESSIAH’s Character Animation System  
+p.58 Leaping Lizard's CENTIPEDE 3D - postmortem  
+p.72 Smart Toys: Not Just Kids’ Stuff - Seonaidh Davenport  
 
 ### October 
 
-p.17 Over My Dead, Polygonal Body - 3d modelling
-p.25 Staying in Shape: Low-Polygon Mesh Accommodation
-p.33 Interplay OEM: Little Bundles of Joy
-p.36 Breaking the sound barrier : how to work with a third party sound designer
-p.48 Using Bitmaps for Automatic Generation of Large-Scale Terrain Models
-p.54 Outrage's DESCENT 3 - postmortem
-p.64 Who’s Eating Your Slice of the Pie? - Mike Kelleghan
+p.17 Over My Dead, Polygonal Body - 3d modelling  
+p.25 Staying in Shape: Low-Polygon Mesh Accommodation  
+p.33 Interplay OEM: Little Bundles of Joy  
+p.36 Breaking the sound barrier : how to work with a third party sound designer  
+p.48 Using Bitmaps for Automatic Generation of Large-Scale Terrain Models  
+p.54 Outrage's DESCENT 3 - postmortem  
+p.64 Who’s Eating Your Slice of the Pie? - Mike Kelleghan  
 
 ### November
 
-p.13 The Blobs Go Marching Two by Two - modelling organic shapes
-p.19 Mo-Cap and Keyframing, Sittin’ in a Tree - animation techniques
-p.27 A Tale of Two Channels - PC / console gaming market
-p.30 Putting Curved Surfaces to Work on the Nintendo 64
-p.42 The Big Squeeze: Resource Management During Your Console Port
-p.52 Irrational Games' SYSTEM SHOCK 2 - postmortem
-p.64 A Platform for New Ideas: Why We Need an Indie Label Now - Greg Costikyan
+p.13 The Blobs Go Marching Two by Two - modelling organic shapes  
+p.19 Mo-Cap and Keyframing, Sittin’ in a Tree - animation techniques  
+p.27 A Tale of Two Channels - PC / console gaming market  
+p.30 Putting Curved Surfaces to Work on the Nintendo 64  
+p.42 The Big Squeeze: Resource Management During Your Console Port  
+p.52 Irrational Games' SYSTEM SHOCK 2 - postmortem  
+p.64 A Platform for New Ideas: Why We Need an Indie Label Now - Greg Costikyan  
 
 ### December 
 
-p.23 A Clean Start: Washing Away the Millennium - height field
-p.31 No Pain, No Gain: Implementing New Art Technology in QUAKE 3: ARENA
-p.37 The Integrated PC: More Consumers with Fewer Choices
-p.41 THE CABAL : Valve’s Design Process For Creating HALF -LIFE
-p.56 Making a Break from Fragile Code Design
-p.62 Activision's HEAVY GEAR II - postmortem
-p.72 Go, Team! - Warren Spector
+p.23 A Clean Start: Washing Away the Millennium - height field  
+p.31 No Pain, No Gain: Implementing New Art Technology in QUAKE 3: ARENA  
+p.37 The Integrated PC: More Consumers with Fewer Choices  
+p.41 THE CABAL : Valve’s Design Process For Creating HALF -LIFE  
+p.56 Making a Break from Fragile Code Design  
+p.62 Activision's HEAVY GEAR II - postmortem  
+p.72 Go, Team! - Warren Spector  
 
 ## 2000
 
